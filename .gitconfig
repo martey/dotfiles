@@ -1,0 +1,5 @@
+[user]
+	name = Martey Dodoo
+	email = martey@marteydodoo.com
+[core]
+	editor = vim \"+set tw=72\"
