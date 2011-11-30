@@ -1,4 +1,7 @@
 /*
 !/.gitconfig
 !/.gitignore
+!/.gnupg
+/.gnupg/*
+!/.gnupg/gpg.conf
 !/.vimrc
