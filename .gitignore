@@ -1,7 +1,10 @@
 /*
+!/.bash_aliases
+!/.bashrc
 !/.gitconfig
 !/.gitignore
 !/.gnupg
 /.gnupg/*
 !/.gnupg/gpg.conf
+!/.profile
 !/.vimrc
