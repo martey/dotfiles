@@ -10,4 +10,5 @@ alias rm="rm -i"
 
 # Martey gets fancy
 alias pep8="pep8 --repeat"
+alias pwgen="pwgen -cn1sy 20"
 alias shred="shred -u" # auto-delete
