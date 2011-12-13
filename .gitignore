@@ -10,8 +10,5 @@
 !/.vim
 /.vim/*
 !/.vim/filetype.vim
-!/.vim/spell
-/.vim/spell/*
-!/.vim/spell/*.add
 !/.vim/syntax/
 !/.vimrc
