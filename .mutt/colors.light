@@ -1,0 +1,15 @@
+color   normal      black           default
+# Message Index
+color   index       brightwhite     default "~D"    # deleted
+color   index       brightred       default "~F"    # flagged
+color   index       brightblack     default "~N"    # new
+color   index       brightblack     default "~O"    # unread
+color   index       brightgreen     default "~T"    # tagged
+color   indicator   brightblue      default
+# Message Pager
+color   attachment  yellow          default
+color   hdrdefault  cyan            default
+color   quoted      green           default
+color   signature   cyan            default
+color   status      brightyellow    black
+color   tilde       default         default

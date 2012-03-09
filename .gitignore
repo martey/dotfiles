@@ -6,6 +6,8 @@
 !/.gnupg
 /.gnupg/*
 !/.gnupg/gpg.conf
+!/.mutt
+/.mutt/aliases
 !/.profile
 !/.vim
 /.vim/*
