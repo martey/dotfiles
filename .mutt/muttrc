@@ -16,6 +16,7 @@ set index_format="%4C %Z %{%b %d} %-35.35L (%5c) %s"
 set send_charset="utf8"
 set sig_on_top=no
 set signature=~/.mutt/signature
+set sort_aux="last-date-received"
 set spoolfile=~/mail/inbox
 set mark_old=no
 set move=no
@@ -69,4 +70,3 @@ bind pager      <down>  next-line
 bind pager      <right> next-undeleted
 bind pager      <up>    previous-line
 bind pager      <left>  previous-undeleted
-
