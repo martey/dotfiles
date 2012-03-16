@@ -8,6 +8,8 @@
 !/.gnupg/gpg.conf
 !/.mutt
 /.mutt/aliases
+/.mutt/muttrc
+/.mutt/signature
 !/.profile
 !/.vim
 /.vim/*
