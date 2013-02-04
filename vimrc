@@ -1,10 +1,14 @@
 set autoindent
+set encoding=utf-8
 set expandtab
+set modelines=0
+set nocompatible
 set number
 set shiftwidth=4
 set softtabstop=4
 set tabstop=4
 set textwidth=79
+set wrap
 
 syntax enable
 
