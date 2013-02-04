@@ -14,6 +14,7 @@ syntax enable
 
 augroup markdown
     autocmd BufRead *.markdown set ai formatoptions=tcroqn2 comments=n:>
+    autocmd BufRead *.md set ai formatoptions=tcroqn2 comments=n:>
 augroup END
 
 " from http://news.ycombinator.com/item?id=2006511
