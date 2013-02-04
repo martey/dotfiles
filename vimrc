@@ -10,6 +10,9 @@ set tabstop=4
 set textwidth=79
 set wrap
 
+hi clear SpellBad
+hi SpellBad cterm=underline ctermfg=red
+
 syntax enable
 
 augroup markdown
